@@ -1,0 +1,3 @@
+/root/git/boost_ipc/creator/build/CMakeFiles/rebuild_cache.dir
+/root/git/boost_ipc/creator/build/CMakeFiles/creator.dir
+/root/git/boost_ipc/creator/build/CMakeFiles/edit_cache.dir

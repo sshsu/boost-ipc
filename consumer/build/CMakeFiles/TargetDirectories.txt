@@ -1,0 +1,3 @@
+/root/git/boost_ipc/consumer/build/CMakeFiles/rebuild_cache.dir
+/root/git/boost_ipc/consumer/build/CMakeFiles/consumer.dir
+/root/git/boost_ipc/consumer/build/CMakeFiles/edit_cache.dir

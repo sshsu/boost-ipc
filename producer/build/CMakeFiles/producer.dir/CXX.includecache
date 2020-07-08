@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../ipc.h
+boost/interprocess/managed_shared_memory.hpp
+-
+boost/interprocess/allocators/allocator.hpp
+-
+boost/interprocess/containers/string.hpp
+-
+boost/lockfree/queue.hpp
+-
+
+/root/git/boost_ipc/producer/producer.cpp
+ipc.h
+/root/git/boost_ipc/producer/ipc.h
+iostream
+-
+

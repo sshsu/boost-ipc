@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/creator.dir/creator.cpp.o  -o creator -lpthread -lrt 

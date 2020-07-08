@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/root/git/boost_ipc/build/creator",
+  "command": "/usr/bin/g++   -I/root/git/boost_ipc/creator/..  -g   -std=gnu++17 -o CMakeFiles/creator.dir/creator.cpp.o -c /root/git/boost_ipc/creator/creator.cpp",
+  "file": "/root/git/boost_ipc/creator/creator.cpp"
+},
+{
+  "directory": "/root/git/boost_ipc/build/consumer",
+  "command": "/usr/bin/g++   -I/root/git/boost_ipc/consumer/..  -g   -std=gnu++17 -o CMakeFiles/consumer.dir/consumer.cpp.o -c /root/git/boost_ipc/consumer/consumer.cpp",
+  "file": "/root/git/boost_ipc/consumer/consumer.cpp"
+},
+{
+  "directory": "/root/git/boost_ipc/build/producer",
+  "command": "/usr/bin/g++   -I/root/git/boost_ipc/producer/..  -g   -std=gnu++17 -o CMakeFiles/producer.dir/producer.cpp.o -c /root/git/boost_ipc/producer/producer.cpp",
+  "file": "/root/git/boost_ipc/producer/producer.cpp"
+}
+]

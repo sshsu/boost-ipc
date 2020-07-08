@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/producer.dir/producer.cpp.o  -o producer -lpthread -lrt 

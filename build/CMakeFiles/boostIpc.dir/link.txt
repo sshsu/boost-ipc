@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/boostIpc.dir/main.cpp.o  -o boostIpc -lwebsockets 

@@ -1,0 +1,11 @@
+/root/git/boost_ipc/build/CMakeFiles/rebuild_cache.dir
+/root/git/boost_ipc/build/CMakeFiles/edit_cache.dir
+/root/git/boost_ipc/build/creator/CMakeFiles/rebuild_cache.dir
+/root/git/boost_ipc/build/creator/CMakeFiles/edit_cache.dir
+/root/git/boost_ipc/build/creator/CMakeFiles/creator.dir
+/root/git/boost_ipc/build/consumer/CMakeFiles/edit_cache.dir
+/root/git/boost_ipc/build/consumer/CMakeFiles/rebuild_cache.dir
+/root/git/boost_ipc/build/consumer/CMakeFiles/consumer.dir
+/root/git/boost_ipc/build/producer/CMakeFiles/edit_cache.dir
+/root/git/boost_ipc/build/producer/CMakeFiles/rebuild_cache.dir
+/root/git/boost_ipc/build/producer/CMakeFiles/producer.dir
